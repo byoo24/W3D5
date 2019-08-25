@@ -1,0 +1,3 @@
+# Minesweeper
+
+Inline Minesweeper game
